@@ -9,3 +9,4 @@ ook is het handig dat je dx11 en de gamedevelopment kit hebt geinstaleerd.
 
 Veel geluk met uwp ;0
 
+ ![previeuw](https://github.com/NHLStenden-HBO-ICT/testdepence/assets/102025160/250af3d7-e920-4395-8da5-44ae344fbc99)
