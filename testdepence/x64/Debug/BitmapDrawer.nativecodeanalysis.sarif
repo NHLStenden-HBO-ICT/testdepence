@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32825.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/bitmapdrawer.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "5af75e57254389d757f00ab4b24d33f12ffaa31a9d940cbe90b9e32ea55d03a6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/pch.h"
+          },
+          "hashes": {
+            "sha-256": "a28add7f22b2fcd612163cf07fc7f164c64d13edd4b983e07ff5403fa5f95658"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/bitmapdrawer.h"
+          },
+          "hashes": {
+            "sha-256": "dc08fc2aae9d6fc66e82dc927a66ae93ebcb49d60e9fa02203226653f1512f3c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/common/deviceresources.h"
+          },
+          "hashes": {
+            "sha-256": "22a8968e360cf61ab93ca99827ff2195343c2ab2feb6ec32456eb5847ecd39f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/common/steptimer.h"
+          },
+          "hashes": {
+            "sha-256": "67c35cff434633c6689db3341ac19ceae6dd549cc42039ac095597575b5a4c1c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/common/directxhelper.h"
+          },
+          "hashes": {
+            "sha-256": "31ef47be1f72170aa3b6d2435b59b0d701d01093deda6e39bfc8dc54c3ab5faa"
+          }
+        }
+      ]
+    }
+  ]
+}

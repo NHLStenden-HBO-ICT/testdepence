@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32825.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/tiletype.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "692f0dbb559773ab902695eaf8477ac902192db16493681e94932abfcf7d3074"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/pch.h"
+          },
+          "hashes": {
+            "sha-256": "a28add7f22b2fcd612163cf07fc7f164c64d13edd4b983e07ff5403fa5f95658"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/tiletype.h"
+          },
+          "hashes": {
+            "sha-256": "c9c31e8cc030f60b92a9463891619dc5d1ec2e888cdb84c3e5e0b47fe661d8b1"
+          }
+        }
+      ]
+    }
+  ]
+}

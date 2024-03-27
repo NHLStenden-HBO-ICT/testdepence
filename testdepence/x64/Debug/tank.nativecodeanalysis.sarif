@@ -1,0 +1,99 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32825.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/tank.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d2138222c3d81e8ac3c6716f737d89cb2f5fa82daf9b8857e3dcf6978e8ae3a5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/pch.h"
+          },
+          "hashes": {
+            "sha-256": "a28add7f22b2fcd612163cf07fc7f164c64d13edd4b983e07ff5403fa5f95658"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/tank.h"
+          },
+          "hashes": {
+            "sha-256": "b9385137b22b3919aa145db514575be421b3a31b48176a0ab0b2dc9296dba924"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/containertypes.h"
+          },
+          "hashes": {
+            "sha-256": "165c177fb33e74eaaa64ec29cfd84ae7aa2a255c0e6f6858b12a80e8e8687ff3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/sprite.h"
+          },
+          "hashes": {
+            "sha-256": "7891a94fb015153366c3db8db67470997a0a48377c60263f884bc66f3cd28ff9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/cheatcompile.h"
+          },
+          "hashes": {
+            "sha-256": "6697882d3581acf7d25d803e3b1175788c4a9981b719913412e7879b40186f11"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/surface.h"
+          },
+          "hashes": {
+            "sha-256": "d9159f837be64149362d7378f95b7886af0ea20c5cc35e5165dad62202fa5031"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/hull.h"
+          },
+          "hashes": {
+            "sha-256": "fbf290c608e5ff6f6f30c81ed03a548c5c3808fdc14bc66b1c62fa50ca4d8a54"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/school/jaar3/visualsstudio/testdepence/testdepence/rectangle.h"
+          },
+          "hashes": {
+            "sha-256": "157bafb08191ed4119205eaf1bd27d903bb44e1f01d64c917d16203b079676fe"
+          }
+        }
+      ]
+    }
+  ]
+}

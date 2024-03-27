@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\school\jaar3\visualsStudio\testdepence\testdepence\</FILEPATH>
+      <FILENAME>BranchMk3N.cpp</FILENAME>
+      <LINE>129</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6293</DEFECTCODE>
+    <DESCRIPTION>Ill-defined for-loop.</DESCRIPTION>
+    <FUNCTION>testdependence::BranchMk3::passOn</FUNCTION>
+    <DECORATED>?passOn@BranchMk3@testdependence@@AEAAXAEAV12@@Z</DECORATED>
+    <FUNCLINE>120</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\school\jaar3\visualsStudio\testdepence\testdepence\</FILEPATH>
+      <FILENAME>testdepenceMain.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '288120' bytes of stack.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>testdependence::testdepenceMain::CreateTanks</FUNCTION>
+    <DECORATED>?CreateTanks@testdepenceMain@testdependence@@QEAAXXZ</DECORATED>
+    <FUNCLINE>71</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\school\jaar3\visualsStudio\testdepence\testdepence\</FILEPATH>
+      <FILENAME>testdepenceMain.cpp</FILENAME>
+      <LINE>95</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '288136' bytes of stack.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>testdependence::testdepenceMain::MakePaden</FUNCTION>
+    <DECORATED>?MakePaden@testdepenceMain@testdependence@@QEAAXVTerrainM@2@@Z</DECORATED>
+    <FUNCLINE>95</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

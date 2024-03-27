@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>b18ddb0a-6b5e-4993-b31e-d201fb1f8a46</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>e8b5b401-1b83-4513-81bd-8ebc12e22c19</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+    <Filter Include="Content">
+      <UniqueIdentifier>85ffb0dd-2152-45f0-8dc9-aa4b6c126eab</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="Common\DirectXHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\StepTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\DeviceResources.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClCompile Include="Common\DeviceResources.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClInclude Include="Content\Sample3DSceneRenderer.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\SampleFpsTextRenderer.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\ShaderStructures.h">
+      <Filter>Content</Filter>
+    </ClInclude>
+    <ClCompile Include="Content\Sample3DSceneRenderer.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\SampleFpsTextRenderer.cpp">
+      <Filter>Content</Filter>
+    </ClCompile>
+    <FxCompile Include="Content\SamplePixelShader.hlsl">
+      <Filter>Content</Filter>
+    </FxCompile>
+    <FxCompile Include="Content\SampleVertexShader.hlsl">
+      <Filter>Content</Filter>
+    </FxCompile>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Filter Include="MathN">
+      <UniqueIdentifier>{d290a6b9-5474-4f3a-8b8c-1c2e5d939f02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XScan">
+      <UniqueIdentifier>{9e60181a-3c7d-46ca-abac-fa5c5cabd7dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImprovedOop">
+      <UniqueIdentifier>{2c301e7d-56cf-4c52-8efd-63006dcf5a5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RocketManagers">
+      <UniqueIdentifier>{a9291251-fb38-4b18-8153-1c4c879b7f69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{26effcbb-4331-43fe-9dc3-83fce74bcaf1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp" />
+    <ClCompile Include="testdepenceMain.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="BitmapDrawer.cpp" />
+    <ClCompile Include="TerrainM.cpp" />
+    <ClCompile Include="CheatCompile.cpp" />
+    <ClCompile Include="Surface.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="tank.cpp" />
+    <ClCompile Include="ContainerTypes.cpp" />
+    <ClCompile Include="Hull.cpp" />
+    <ClCompile Include="rectangle.cpp" />
+    <ClCompile Include="TileType.cpp" />
+    <ClCompile Include="TankCollection.cpp" />
+    <ClCompile Include="HightCommand.cpp" />
+    <ClCompile Include="ThreadPoolN.cpp" />
+    <ClCompile Include="BranchMk3N.cpp" />
+    <ClCompile Include="CollisionsN.cpp" />
+    <ClCompile Include="CollisionGridN.cpp" />
+    <ClCompile Include="AssetPathN.cpp" />
+    <ClCompile Include="PathFinder.cpp" />
+    <ClCompile Include="StarAndPath.cpp" />
+    <ClCompile Include="MathLib.cpp" />
+    <ClCompile Include="Pos2.cpp">
+      <Filter>MathN</Filter>
+    </ClCompile>
+    <ClCompile Include="Xscan.cpp">
+      <Filter>XScan</Filter>
+    </ClCompile>
+    <ClCompile Include="SweepAndPrune.cpp" />
+    <ClCompile Include="Rocket.cpp" />
+    <ClCompile Include="RCollectionmanager.cpp" />
+    <ClCompile Include="Anthhill.cpp">
+      <Filter>ImprovedOop</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainTile.cpp">
+      <Filter>ImprovedOop</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h" />
+    <ClInclude Include="testdepenceMain.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="BitmapDrawer.h" />
+    <ClInclude Include="TerrainM.h" />
+    <ClInclude Include="CheatCompile.h" />
+    <ClInclude Include="Surface.h" />
+    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="tank.h" />
+    <ClInclude Include="ContainerTypes.h" />
+    <ClInclude Include="Hull.h" />
+    <ClInclude Include="rectangle.h" />
+    <ClInclude Include="TileType.h" />
+    <ClInclude Include="TankCollection.h" />
+    <ClInclude Include="HightCommand.h" />
+    <ClInclude Include="ThreadPoolN.h" />
+    <ClInclude Include="BranchMk3N.h" />
+    <ClInclude Include="CollisionsN.h" />
+    <ClInclude Include="CollisionGridN.h" />
+    <ClInclude Include="AssetPathN.h" />
+    <ClInclude Include="PathFinder.h" />
+    <ClInclude Include="StarAndPath.h" />
+    <ClInclude Include="MathLib.h" />
+    <ClInclude Include="Pos2.h">
+      <Filter>MathN</Filter>
+    </ClInclude>
+    <ClInclude Include="Xscan.h">
+      <Filter>XScan</Filter>
+    </ClInclude>
+    <ClInclude Include="SweepAndPrune.h" />
+    <ClInclude Include="Rocket.h" />
+    <ClInclude Include="RCollectionmanager.h" />
+    <ClInclude Include="Anthhill.h">
+      <Filter>ImprovedOop</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainTile.h">
+      <Filter>ImprovedOop</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\256.jpg">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\better.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\bigger.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\bigtank.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\RotatedBigtankRed.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\scorpion.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Tank_Blue_Proj2.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Tank_Proj2.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\tile_forest.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\tile_grass.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\tile_mountains.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\tile_rocks.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\tile_water.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\tileset.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Assets\terrain.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ComputeTankTicss.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
