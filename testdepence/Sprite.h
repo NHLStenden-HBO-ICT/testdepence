@@ -37,21 +37,16 @@ public:
     //the draw call will be replaced and done in the render method
     //void draw(Surface* a_Target, int a_X, int a_Y);
     void drawMK2(int a_X, int a_Y);
-    void set_Image(ID2D1Bitmap d2dBitmap);
-    void draw_scaled(int a_X, int a_Y, int a_Width, int a_Height, Surface* a_Target);
     void set_flags(unsigned int a_Flags) { m_Flags = a_Flags; }
     void set_frame(unsigned int a_Index) { m_CurrentFrame = a_Index; }
     unsigned int get_flags() const { return m_Flags; }
     int get_width() { return m_Width; }
     int get_height() { return m_Height; }
-    //pixel gone
-    //Pixel* get_buffer() { return m_Surface->get_buffer(); }
     unsigned int frames() { return m_NumFrames; }
     Surface* get_surface() { return m_Surface; }
     ComPtr<ID2D1Bitmap> d2dBitmap;
     //std::vector<ComPtr<ID2D1Bitmap>> animation_cells;
     unsigned int m_CurrentFrame;
-    void initialize_start_data();
     void animationLooper();
 
 private:

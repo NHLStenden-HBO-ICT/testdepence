@@ -5,24 +5,6 @@
 
 
 
-// a lesser memory heavy way to store a vec2 
-//both vars are refs to eachother and should be better for memory
-class pair2
-{
-public:
-    struct
-    {
-        int& x;
-        int& y;
-    };
-    std::pair<int, int> par2;
-
-
-    pair2() : x(par2.first), y(par2.second) {}
-    pair2(int x, int y) : x(par2.first), y(par2.second) {}
-    //pair2() : pair(std::make_unique<std::pair<int, int>>()) {};
-};
-
 //hier cev 2 komen
 
 //wist je dat chat gp actueel heeft geholpem

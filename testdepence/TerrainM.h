@@ -24,16 +24,12 @@ namespace testdependence {
         float angleChecker(vec2 hit, vec2 dir, vec2& target, TerrainTile* player_Tile);
         vec2 incrementAngle(float degrees, vec2 rotationVec);
         std::vector<vec2>& revertRoute(std::vector<vec2>& route);
-        //std::vector<vec2> searchWander(vec2& start, vec2& end);
         std::vector<vec2> searchWander(vec2 start, vec2 end, Tank& t);
         std::vector<std::pair<vec2, float>> CheckAngle(vec2& currentPoint, vec2& dir, vec2& target, TerrainTile* player_Tile);
         vec2 getDirection(vec2 start, vec2 end);
         void toggleTile(vec2 tpos);
         bool checkTile(vec2& tpos, TerrainTile* player_Tile);
-        vec2 TerrainM::incrementDir(float dir, vec2& rotationVec);
-        //vector<vec2*> a_star(TerrainTile* start, TerrainTile* goal);
         TerrainTile getTile(vec2 tpos);
-        void WanderSearch(std::vector<vec2*> backlog, vec2& nextPoint, vec2& target);
         void ClearTiles(std::vector<TerrainTile*> tileset);
         TerrainTile* GetRealWorldTilePos(vec2& pos, bool firstTime);
         std::pair <vec2, float> findSmallest(std::vector<std::pair<vec2, float>>& anglesAndDistance);
@@ -57,20 +53,10 @@ namespace testdependence {
         //45 80
         void IloveWindows(const TerrainTile& vista);
         bool is_accessible(int y, int x);
-        //std::vector<std::vector<TerrainTile>> tiley(10, std::vector<TerrainTile>(10));
-       //vector<vector<TerrainTile>> tiles(),( std::vector<TerrainTile>()); // Use the vector 
-        //std::array<std::array<Sprite*, terrain_width>, terrain_height> spriters;
-        ////std::vector< std::vector< int > > a;
-        //std::vector<std::vector<Sprite>> tileSprites;
 
 
 
     private:
-        //https://sl.bing.net/ABRrMPTg0O
-
-        //static constexpr int sprite_size = 16;
-        //static constexpr size_t terrain_width = 80;
-        //static constexpr size_t terrain_height = 45;
 
         std::unique_ptr<Surface> grass_img;
         std::unique_ptr<Surface> forest_img;
@@ -84,11 +70,6 @@ namespace testdependence {
         std::unique_ptr<Sprite> tile_rocks;
         std::unique_ptr<Sprite> tile_mountains;
         std::unique_ptr<Sprite> tile_water;
-
-        //TerrainTile* buurtCheck(TerrainTile* current, TerrainTile* target, unordered_set<TerrainTile*> closed);
-        //windows vista best girl
-        //std::unique_ptr<Sprite> tile_grass2;
-        //std::array<std::array<TerrainTile, terrain_width>, terrain_height> tiles;
 
     };
 

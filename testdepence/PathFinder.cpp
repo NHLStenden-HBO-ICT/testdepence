@@ -40,17 +40,9 @@ namespace testdependence {
 		std::vector<std::reference_wrapper<Tank>> tanksWithRoute;
 		//for each incomming tank
 		for (Tank& t : tanklist) {
-			//get the route to the inbuild target
-			//map.get_route(t, t.target);
-			//set and get a route 
-			//this is still a bread search
-			//crash at id 613
-			//t.set_route(map.a_star(map.GetRealWorldTilePos(t.position, true), map.GetRealWorldTilePos(t.target, true)));
 			StarAndPath uiy;
+			//set the route by using hillclimb
 			t.set_route(uiy.aStar(map.GetRealWorldTilePos(t.position, true), map.GetRealWorldTilePos(t.target, true)));
-			//t.set_route(map.get_route(t, t.target));
-			//t.set_route(map.searchWander(t.position, t.target, t));
-			//t.set_route(map.get_route(t, t.target));
 			if (t.target != t.position) {
 				tanksWithRoute.push_back(t);
 			}

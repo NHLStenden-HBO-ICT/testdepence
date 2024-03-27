@@ -31,9 +31,6 @@
     <AppxPackagedFile Include="D:\school\jaar3\visualsStudio\testdepence\x64\Debug\testdepence\testdepence.winmd">
       <PackagePath>testdepence.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\school\jaar3\visualsStudio\testdepence\x64\Debug\testdepence\ComputeTankTicss.cso">
-      <PackagePath>ComputeTankTicss.cso</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\school\jaar3\visualsStudio\testdepence\x64\Debug\testdepence\SamplePixelShader.cso">
       <PackagePath>SamplePixelShader.cso</PackagePath>
     </AppxPackagedFile>

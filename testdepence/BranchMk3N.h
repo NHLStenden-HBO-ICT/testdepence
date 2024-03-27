@@ -8,8 +8,6 @@ namespace testdependence {
 
     using namespace DirectX;
 
-    //pretty great explenation
-    //https://sl.bing.net/bivV1TTlaEK
     class BranchMk3
     {
     public:

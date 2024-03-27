@@ -3,6 +3,82 @@
   "WorkspaceRootPath": "D:\\school\\jaar3\\visualsStudio\\testdepence\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\StarAndPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Hull.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\HightCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ContainerTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CollisionsN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CollisionGridN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CheatCompile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CheatCompile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\BranchMk3N.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\BitmapDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\AssetPathN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TerrainTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TileType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TileType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ThreadPoolN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\testdepenceMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,32 +87,64 @@
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\testdepenceMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TerrainM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TerrainM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Surface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Surface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\HightCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TankCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\tank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\tank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TankCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\SweepAndPrune.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\SweepAndPrune.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Surface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Surface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\StarAndPath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\PathFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Hull.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ContainerTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Xscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Xscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\Sample3DSceneRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -58,52 +166,12 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\PathFinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Common\\DirectXHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Common\\DirectXHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Pos2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Pos2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ContainerTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TerrainM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Anthhill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Anthhill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Anthhill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Anthhill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TerrainTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TankCollection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\SweepAndPrune.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\SweepAndPrune.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\SweepAndPrune.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -114,48 +182,12 @@
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\MathLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\StarAndPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\StarAndPath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\PathFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TerrainTile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CollisionGridN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CollisionsN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ThreadPoolN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CollisionsN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ComputeTankTicss.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ComputeTankTicss.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleVertexShader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -166,51 +198,11 @@
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Content\\SamplePixelShader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\RCollectionmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\RCollectionmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TankCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Pos2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Pos2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TileType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\TileType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Xscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Xscan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\BitmapDrawer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\BranchMk3N.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CheatCompile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CheatCompile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Hull.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -229,10 +221,6 @@
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\BitmapDrawer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\AssetPathN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\HightCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -245,10 +233,6 @@
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\CollisionGridN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\ContainerTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\vccorlib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -258,10 +242,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B18DDB0A-6B5E-4993-B31E-D201FB1F8A46}|testdepence\\testdepence.vcxproj|solutionrelative:testdepence\\Hull.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\functional||{3B902123-F8A7-4915-9F01-361F908088D0}|"
@@ -289,59 +269,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "TankCollection.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.cpp",
               "RelativeDocumentMoniker": "testdepence\\TankCollection.cpp",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.cpp",
               "RelativeToolTip": "testdepence\\TankCollection.cpp",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAIwKEAAAAVAAAA",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAKEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2023-11-14T14:37:01.851Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 23,
               "Title": "TankCollection.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.h",
               "RelativeDocumentMoniker": "testdepence\\TankCollection.h",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TankCollection.h",
               "RelativeToolTip": "testdepence\\TankCollection.h",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAYAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2023-11-14T14:35:38.597Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Anthhill.cpp",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Anthhill.cpp",
-              "RelativeDocumentMoniker": "testdepence\\Anthhill.cpp",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Anthhill.cpp",
-              "RelativeToolTip": "testdepence\\Anthhill.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-13T12:29:44.844Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Anthhill.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Anthhill.h",
-              "RelativeDocumentMoniker": "testdepence\\Anthhill.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Anthhill.h",
-              "RelativeToolTip": "testdepence\\Anthhill.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-13T09:45:12.962Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -361,63 +317,316 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "agile.h",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\agile.h",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\agile.h",
-              "ViewState": "AQIAALABAAAAAAAAAAAAAL0BAAA2AAAA",
+              "DocumentIndex": 9,
+              "Title": "CollisionsN.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.h",
+              "RelativeDocumentMoniker": "testdepence\\CollisionsN.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.h",
+              "RelativeToolTip": "testdepence\\CollisionsN.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-14T12:26:46.688Z"
+              "WhenOpened": "2023-11-15T13:53:21.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SampleFpsTextRenderer.cpp",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.cpp",
-              "RelativeDocumentMoniker": "testdepence\\Content\\SampleFpsTextRenderer.cpp",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.cpp",
-              "RelativeToolTip": "testdepence\\Content\\SampleFpsTextRenderer.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "ContainerTypes.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.h",
+              "RelativeDocumentMoniker": "testdepence\\ContainerTypes.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.h",
+              "RelativeToolTip": "testdepence\\ContainerTypes.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:28:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HightCommand.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.h",
+              "RelativeDocumentMoniker": "testdepence\\HightCommand.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.h",
+              "RelativeToolTip": "testdepence\\HightCommand.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:37:56.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hull.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.h",
+              "RelativeDocumentMoniker": "testdepence\\Hull.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.h",
+              "RelativeToolTip": "testdepence\\Hull.h",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:30:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MathLib.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.h",
+              "RelativeDocumentMoniker": "testdepence\\MathLib.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.h",
+              "RelativeToolTip": "testdepence\\MathLib.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T14:33:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PathFinder.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.h",
+              "RelativeDocumentMoniker": "testdepence\\PathFinder.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.h",
+              "RelativeToolTip": "testdepence\\PathFinder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T14:25:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\pch.h",
+              "RelativeDocumentMoniker": "testdepence\\pch.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\pch.h",
+              "RelativeToolTip": "testdepence\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T15:10:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rectangle.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.h",
+              "RelativeDocumentMoniker": "testdepence\\rectangle.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.h",
+              "RelativeToolTip": "testdepence\\rectangle.h",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAEAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:31:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarAndPath.cpp",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.cpp",
+              "RelativeDocumentMoniker": "testdepence\\StarAndPath.cpp",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.cpp",
+              "RelativeToolTip": "testdepence\\StarAndPath.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAABMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-15T14:38:08.795Z"
+              "WhenOpened": "2023-11-15T14:32:04.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SampleFpsTextRenderer.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.h",
-              "RelativeDocumentMoniker": "testdepence\\Content\\SampleFpsTextRenderer.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.h",
-              "RelativeToolTip": "testdepence\\Content\\SampleFpsTextRenderer.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Sprite.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.h",
+              "RelativeDocumentMoniker": "testdepence\\Sprite.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.h",
+              "RelativeToolTip": "testdepence\\Sprite.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:38:31.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "ppltasks.h",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\ppltasks.h",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\ppltasks.h",
-              "ViewState": "AQIAAAgGAAAAAAAAAAAUwBoGAABxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-21T12:12:40.682Z"
+              "WhenOpened": "2023-11-14T14:12:32.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Sample3DSceneRenderer.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\Sample3DSceneRenderer.h",
-              "RelativeDocumentMoniker": "testdepence\\Content\\Sample3DSceneRenderer.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\Sample3DSceneRenderer.h",
-              "RelativeToolTip": "testdepence\\Content\\Sample3DSceneRenderer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAWAAAA",
+              "Title": "CollisionGridN.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.h",
+              "RelativeDocumentMoniker": "testdepence\\CollisionGridN.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.h",
+              "RelativeToolTip": "testdepence\\CollisionGridN.h",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:38:41.81Z"
+              "WhenOpened": "2023-11-15T13:55:03.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "CheatCompile.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CheatCompile.h",
+              "RelativeDocumentMoniker": "testdepence\\CheatCompile.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CheatCompile.h",
+              "RelativeToolTip": "testdepence\\CheatCompile.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:09:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BranchMk3N.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.h",
+              "RelativeDocumentMoniker": "testdepence\\BranchMk3N.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.h",
+              "RelativeToolTip": "testdepence\\BranchMk3N.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T13:48:30.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BitmapDrawer.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.h",
+              "RelativeDocumentMoniker": "testdepence\\BitmapDrawer.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.h",
+              "RelativeToolTip": "testdepence\\BitmapDrawer.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:04:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssetPathN.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.h",
+              "RelativeDocumentMoniker": "testdepence\\AssetPathN.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.h",
+              "RelativeToolTip": "testdepence\\AssetPathN.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T14:01:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.h",
+              "RelativeDocumentMoniker": "testdepence\\App.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.h",
+              "RelativeToolTip": "testdepence\\App.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T14:05:00.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TerrainTile.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.h",
+              "RelativeDocumentMoniker": "testdepence\\TerrainTile.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.h",
+              "RelativeToolTip": "testdepence\\TerrainTile.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:32:46.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TileType.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TileType.h",
+              "RelativeDocumentMoniker": "testdepence\\TileType.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TileType.h",
+              "RelativeToolTip": "testdepence\\TileType.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:34:53.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThreadPoolN.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.h",
+              "RelativeDocumentMoniker": "testdepence\\ThreadPoolN.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.h",
+              "RelativeToolTip": "testdepence\\ThreadPoolN.h",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T13:46:46.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "testdepenceMain.cpp",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.cpp",
+              "RelativeDocumentMoniker": "testdepence\\testdepenceMain.cpp",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.cpp",
+              "RelativeToolTip": "testdepence\\testdepenceMain.cpp",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAHgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-14T13:54:00.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "testdepenceMain.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.h",
+              "RelativeDocumentMoniker": "testdepence\\testdepenceMain.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.h",
+              "RelativeToolTip": "testdepence\\testdepenceMain.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T13:54:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TerrainM.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.h",
+              "RelativeDocumentMoniker": "testdepence\\TerrainM.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.h",
+              "RelativeToolTip": "testdepence\\TerrainM.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-14T14:08:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TerrainM.cpp",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.cpp",
+              "RelativeDocumentMoniker": "testdepence\\TerrainM.cpp",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.cpp",
+              "RelativeToolTip": "testdepence\\TerrainM.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-14T14:18:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DirectXCollision.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXCollision.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXCollision.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-07T13:56:59.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Sample3DSceneRenderer.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\Sample3DSceneRenderer.cpp",
               "RelativeDocumentMoniker": "testdepence\\Content\\Sample3DSceneRenderer.cpp",
@@ -429,17 +638,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "DirectXCollision.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXCollision.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXCollision.h",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 37,
+              "Title": "Sample3DSceneRenderer.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\Sample3DSceneRenderer.h",
+              "RelativeDocumentMoniker": "testdepence\\Content\\Sample3DSceneRenderer.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\Sample3DSceneRenderer.h",
+              "RelativeToolTip": "testdepence\\Content\\Sample3DSceneRenderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-12-07T13:56:59.429Z"
+              "WhenOpened": "2023-11-15T14:38:41.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 63,
+              "Title": "ppltasks.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\ppltasks.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\ppltasks.h",
+              "ViewState": "AQIAAAgGAAAAAAAAAAAUwBoGAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-21T12:12:40.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SampleFpsTextRenderer.h",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.h",
+              "RelativeDocumentMoniker": "testdepence\\Content\\SampleFpsTextRenderer.h",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.h",
+              "RelativeToolTip": "testdepence\\Content\\SampleFpsTextRenderer.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-15T14:38:31.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SampleFpsTextRenderer.cpp",
+              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.cpp",
+              "RelativeDocumentMoniker": "testdepence\\Content\\SampleFpsTextRenderer.cpp",
+              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleFpsTextRenderer.cpp",
+              "RelativeToolTip": "testdepence\\Content\\SampleFpsTextRenderer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-15T14:38:08.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "agile.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\agile.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\agile.h",
+              "ViewState": "AQIAALABAAAAAAAAAAAAAL0BAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-14T12:26:46.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "new_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\crt\\src\\vcruntime\\new_scalar.cpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\crt\\src\\vcruntime\\new_scalar.cpp",
@@ -449,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "DirectXMath.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXMath.h",
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXMath.h",
@@ -459,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 62,
               "Title": "mutex",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\mutex",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\mutex",
@@ -469,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 61,
               "Title": "functional",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\functional",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\functional",
@@ -479,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 58,
               "Title": "vccorlib.h",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\vccorlib.h",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\vccorlib.h",
@@ -489,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 66,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\vector",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\vector",
@@ -499,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
               "Title": "DirectXHelper.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Common\\DirectXHelper.h",
               "RelativeDocumentMoniker": "testdepence\\Common\\DirectXHelper.h",
@@ -511,154 +766,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "tank.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\tank.h",
               "RelativeDocumentMoniker": "testdepence\\tank.h",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\tank.h",
               "RelativeToolTip": "testdepence\\tank.h",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAABYAAAAKAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:15:55.359Z"
+              "WhenOpened": "2023-11-14T14:15:55.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "tank.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\tank.cpp",
               "RelativeDocumentMoniker": "testdepence\\tank.cpp",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\tank.cpp",
               "RelativeToolTip": "testdepence\\tank.cpp",
-              "ViewState": "AQIAACgAAAAAAAAAAAASwEAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-14T14:18:21.123Z"
+              "WhenOpened": "2023-11-14T14:18:21.123Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ContainerTypes.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.h",
-              "RelativeDocumentMoniker": "testdepence\\ContainerTypes.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.h",
-              "RelativeToolTip": "testdepence\\ContainerTypes.h",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:28:23.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 28,
               "Title": "Surface.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.h",
               "RelativeDocumentMoniker": "testdepence\\Surface.h",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.h",
               "RelativeToolTip": "testdepence\\Surface.h",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:11:03.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "testdepenceMain.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.h",
-              "RelativeDocumentMoniker": "testdepence\\testdepenceMain.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.h",
-              "RelativeToolTip": "testdepence\\testdepenceMain.h",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T13:54:00.681Z",
+              "WhenOpened": "2023-11-14T14:11:03.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "testdepenceMain.cpp",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.cpp",
-              "RelativeDocumentMoniker": "testdepence\\testdepenceMain.cpp",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\testdepenceMain.cpp",
-              "RelativeToolTip": "testdepence\\testdepenceMain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-14T13:54:00.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PathFinder.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.h",
-              "RelativeDocumentMoniker": "testdepence\\PathFinder.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.h",
-              "RelativeToolTip": "testdepence\\PathFinder.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:25:35.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TerrainM.cpp",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.cpp",
-              "RelativeDocumentMoniker": "testdepence\\TerrainM.cpp",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.cpp",
-              "RelativeToolTip": "testdepence\\TerrainM.cpp",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAAALUAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-14T14:18:52.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "pch.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\pch.h",
-              "RelativeDocumentMoniker": "testdepence\\pch.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\pch.h",
-              "RelativeToolTip": "testdepence\\pch.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T15:10:44.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TerrainM.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.h",
-              "RelativeDocumentMoniker": "testdepence\\TerrainM.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainM.h",
-              "RelativeToolTip": "testdepence\\TerrainM.h",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:08:20.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Sprite.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.h",
-              "RelativeDocumentMoniker": "testdepence\\Sprite.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.h",
-              "RelativeToolTip": "testdepence\\Sprite.h",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:12:32.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "PathFinder.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.cpp",
               "RelativeDocumentMoniker": "testdepence\\PathFinder.cpp",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\PathFinder.cpp",
               "RelativeToolTip": "testdepence\\PathFinder.cpp",
-              "ViewState": "AQIAACIAAAAAAAAAAAD4vzAAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-15T14:29:59.779Z"
+              "WhenOpened": "2023-11-15T14:29:59.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 42,
               "Title": "Pos2.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Pos2.h",
               "RelativeDocumentMoniker": "testdepence\\Pos2.h",
@@ -676,37 +836,14 @@
               "RelativeDocumentMoniker": "testdepence\\StarAndPath.h",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.h",
               "RelativeToolTip": "testdepence\\StarAndPath.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:30:59.185Z"
+              "WhenOpened": "2023-11-15T14:30:59.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "StarAndPath.cpp",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.cpp",
-              "RelativeDocumentMoniker": "testdepence\\StarAndPath.cpp",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\StarAndPath.cpp",
-              "RelativeToolTip": "testdepence\\StarAndPath.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-15T14:32:04.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MathLib.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.h",
-              "RelativeDocumentMoniker": "testdepence\\MathLib.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.h",
-              "RelativeToolTip": "testdepence\\MathLib.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:33:04.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 44,
               "Title": "MathLib.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\MathLib.cpp",
               "RelativeDocumentMoniker": "testdepence\\MathLib.cpp",
@@ -718,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 43,
               "Title": "SweepAndPrune.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\SweepAndPrune.cpp",
               "RelativeDocumentMoniker": "testdepence\\SweepAndPrune.cpp",
@@ -730,55 +867,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "SweepAndPrune.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\SweepAndPrune.h",
               "RelativeDocumentMoniker": "testdepence\\SweepAndPrune.h",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\SweepAndPrune.h",
               "RelativeToolTip": "testdepence\\SweepAndPrune.h",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-30T15:07:37.314Z"
+              "WhenOpened": "2023-11-30T15:07:37.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TerrainTile.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.h",
-              "RelativeDocumentMoniker": "testdepence\\TerrainTile.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.h",
-              "RelativeToolTip": "testdepence\\TerrainTile.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:32:46.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CollisionGridN.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.h",
-              "RelativeDocumentMoniker": "testdepence\\CollisionGridN.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.h",
-              "RelativeToolTip": "testdepence\\CollisionGridN.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T13:55:03.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CollisionsN.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.h",
-              "RelativeDocumentMoniker": "testdepence\\CollisionsN.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.h",
-              "RelativeToolTip": "testdepence\\CollisionsN.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T13:53:21.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 45,
               "Title": "TerrainTile.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TerrainTile.cpp",
               "RelativeDocumentMoniker": "testdepence\\TerrainTile.cpp",
@@ -790,19 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ThreadPoolN.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.h",
-              "RelativeDocumentMoniker": "testdepence\\ThreadPoolN.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.h",
-              "RelativeToolTip": "testdepence\\ThreadPoolN.h",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T13:46:46.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "CollisionsN.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionsN.cpp",
               "RelativeDocumentMoniker": "testdepence\\CollisionsN.cpp",
@@ -814,31 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Rocket.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Rocket.h",
-              "RelativeDocumentMoniker": "testdepence\\Rocket.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Rocket.h",
-              "RelativeToolTip": "testdepence\\Rocket.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-12-15T21:29:23.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ComputeTankTicss.hlsl",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ComputeTankTicss.hlsl",
-              "RelativeDocumentMoniker": "testdepence\\ComputeTankTicss.hlsl",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ComputeTankTicss.hlsl",
-              "RelativeToolTip": "testdepence\\ComputeTankTicss.hlsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2023-12-15T21:48:54.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "SamplePixelShader.hlsl",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SamplePixelShader.hlsl",
               "RelativeDocumentMoniker": "testdepence\\Content\\SamplePixelShader.hlsl",
@@ -850,19 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "RCollectionmanager.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\RCollectionmanager.h",
-              "RelativeDocumentMoniker": "testdepence\\RCollectionmanager.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\RCollectionmanager.h",
-              "RelativeToolTip": "testdepence\\RCollectionmanager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-12-15T21:30:38.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "SampleVertexShader.hlsl",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\SampleVertexShader.hlsl",
               "RelativeDocumentMoniker": "testdepence\\Content\\SampleVertexShader.hlsl",
@@ -874,31 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "BitmapDrawer.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.h",
-              "RelativeDocumentMoniker": "testdepence\\BitmapDrawer.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.h",
-              "RelativeToolTip": "testdepence\\BitmapDrawer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:04:44.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "App.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.h",
-              "RelativeDocumentMoniker": "testdepence\\App.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.h",
-              "RelativeToolTip": "testdepence\\App.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:05:00.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 35,
               "Title": "Xscan.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Xscan.h",
               "RelativeDocumentMoniker": "testdepence\\Xscan.h",
@@ -906,11 +936,12 @@
               "RelativeToolTip": "testdepence\\Xscan.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-21T08:16:38.687Z"
+              "WhenOpened": "2023-11-21T08:16:38.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Pos2.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Pos2.cpp",
               "RelativeDocumentMoniker": "testdepence\\Pos2.cpp",
@@ -922,79 +953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "TileType.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TileType.h",
-              "RelativeDocumentMoniker": "testdepence\\TileType.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\TileType.h",
-              "RelativeToolTip": "testdepence\\TileType.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:34:53.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "BranchMk3N.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.h",
-              "RelativeDocumentMoniker": "testdepence\\BranchMk3N.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.h",
-              "RelativeToolTip": "testdepence\\BranchMk3N.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T13:48:30.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CheatCompile.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CheatCompile.h",
-              "RelativeDocumentMoniker": "testdepence\\CheatCompile.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CheatCompile.h",
-              "RelativeToolTip": "testdepence\\CheatCompile.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:09:58.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HightCommand.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.h",
-              "RelativeDocumentMoniker": "testdepence\\HightCommand.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.h",
-              "RelativeToolTip": "testdepence\\HightCommand.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:37:56.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Hull.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.h",
-              "RelativeDocumentMoniker": "testdepence\\Hull.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.h",
-              "RelativeToolTip": "testdepence\\Hull.h",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAACIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:30:08.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "rectangle.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.h",
-              "RelativeDocumentMoniker": "testdepence\\rectangle.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.h",
-              "RelativeToolTip": "testdepence\\rectangle.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-14T14:31:17.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 53,
               "Title": "ShaderStructures.h",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Content\\ShaderStructures.h",
               "RelativeDocumentMoniker": "testdepence\\Content\\ShaderStructures.h",
@@ -1006,7 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "App.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\App.cpp",
               "RelativeDocumentMoniker": "testdepence\\App.cpp",
@@ -1018,7 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 52,
               "Title": "BranchMk3N.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BranchMk3N.cpp",
               "RelativeDocumentMoniker": "testdepence\\BranchMk3N.cpp",
@@ -1030,7 +989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 54,
               "Title": "BitmapDrawer.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\BitmapDrawer.cpp",
               "RelativeDocumentMoniker": "testdepence\\BitmapDrawer.cpp",
@@ -1042,31 +1001,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "AssetPathN.h",
-              "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.h",
-              "RelativeDocumentMoniker": "testdepence\\AssetPathN.h",
-              "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.h",
-              "RelativeToolTip": "testdepence\\AssetPathN.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-11-15T14:01:10.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 31,
               "Title": "Sprite.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.cpp",
               "RelativeDocumentMoniker": "testdepence\\Sprite.cpp",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Sprite.cpp",
               "RelativeToolTip": "testdepence\\Sprite.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAEwEoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-14T14:13:01.817Z"
+              "WhenOpened": "2023-11-14T14:13:01.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 55,
               "Title": "HightCommand.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\HightCommand.cpp",
               "RelativeDocumentMoniker": "testdepence\\HightCommand.cpp",
@@ -1078,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 56,
               "Title": "AssetPathN.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\AssetPathN.cpp",
               "RelativeDocumentMoniker": "testdepence\\AssetPathN.cpp",
@@ -1090,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 57,
               "Title": "CollisionGridN.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\CollisionGridN.cpp",
               "RelativeDocumentMoniker": "testdepence\\CollisionGridN.cpp",
@@ -1102,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 34,
               "Title": "ContainerTypes.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ContainerTypes.cpp",
               "RelativeDocumentMoniker": "testdepence\\ContainerTypes.cpp",
@@ -1110,11 +1058,12 @@
               "RelativeToolTip": "testdepence\\ContainerTypes.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-15T13:52:16.911Z"
+              "WhenOpened": "2023-11-15T13:52:16.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 59,
               "Title": "ThreadPoolN.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\ThreadPoolN.cpp",
               "RelativeDocumentMoniker": "testdepence\\ThreadPoolN.cpp",
@@ -1126,7 +1075,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 60,
               "Title": "rectangle.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\rectangle.cpp",
               "RelativeDocumentMoniker": "testdepence\\rectangle.cpp",
@@ -1138,7 +1087,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 29,
               "Title": "Surface.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Surface.cpp",
               "RelativeDocumentMoniker": "testdepence\\Surface.cpp",
@@ -1146,19 +1095,21 @@
               "RelativeToolTip": "testdepence\\Surface.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-14T14:11:38.491Z"
+              "WhenOpened": "2023-11-14T14:11:38.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 33,
               "Title": "Hull.cpp",
               "DocumentMoniker": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.cpp",
               "RelativeDocumentMoniker": "testdepence\\Hull.cpp",
               "ToolTip": "D:\\school\\jaar3\\visualsStudio\\testdepence\\testdepence\\Hull.cpp",
               "RelativeToolTip": "testdepence\\Hull.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-14T14:30:33.724Z"
+              "WhenOpened": "2023-11-14T14:30:33.724Z",
+              "EditorCaption": ""
             }
           ]
         }

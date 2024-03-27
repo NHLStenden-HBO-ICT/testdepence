@@ -268,7 +268,6 @@
     <Image Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Anthhill.h" />
     <ClInclude Include="App.h" />
     <ClInclude Include="AssetPathN.h" />
     <ClInclude Include="BitmapDrawer.h" />
@@ -283,9 +282,7 @@
     <ClInclude Include="MathLib.h" />
     <ClInclude Include="PathFinder.h" />
     <ClInclude Include="Pos2.h" />
-    <ClInclude Include="RCollectionmanager.h" />
     <ClInclude Include="rectangle.h" />
-    <ClInclude Include="Rocket.h" />
     <ClInclude Include="Sprite.h" />
     <ClInclude Include="StarAndPath.h" />
     <ClInclude Include="Surface.h" />
@@ -306,7 +303,6 @@
     <ClInclude Include="Xscan.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Anthhill.cpp" />
     <ClCompile Include="App.cpp" />
     <ClCompile Include="AssetPathN.cpp" />
     <ClCompile Include="BitmapDrawer.cpp" />
@@ -321,9 +317,7 @@
     <ClCompile Include="MathLib.cpp" />
     <ClCompile Include="PathFinder.cpp" />
     <ClCompile Include="Pos2.cpp" />
-    <ClCompile Include="RCollectionmanager.cpp" />
     <ClCompile Include="rectangle.cpp" />
-    <ClCompile Include="Rocket.cpp" />
     <ClCompile Include="Sprite.cpp" />
     <ClCompile Include="StarAndPath.cpp" />
     <ClCompile Include="Surface.cpp" />
@@ -355,24 +349,6 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <FxCompile Include="ComputeTankTicss.hlsl">
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|ARM'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|ARM'">4.0</ShaderModel>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Compute</ShaderType>
-      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">4.0</ShaderModel>
-    </FxCompile>
     <FxCompile Include="Content\SamplePixelShader.hlsl">
       <ShaderType>Pixel</ShaderType>
     </FxCompile>

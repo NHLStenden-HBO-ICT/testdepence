@@ -14,6 +14,7 @@ namespace testdependence {
 
 	public:
 
+		//hillclimb
 		std::vector<vec2*> aStar(TerrainTile* start, TerrainTile* goal);
 
 		TerrainTile* buurtCheck(TerrainTile* current, TerrainTile* target, unordered_set<TerrainTile*> closed, std::vector<TerrainTile*> oldPath);

@@ -89,8 +89,6 @@ static bool HullIntersect(RectangleM& recti, RectangleM& rectM)
 {
 	if (recti.minPoint.x > rectM.minPoint.x || rectM.minPoint.x > recti.maxPoint.x) return false;
 	if (recti.minPoint.y < rectM.maxPoint.y || rectM.minPoint.y < recti.maxPoint.y) return false;
-	//if (min.x > rect.max.x || rect.min.x > max.x) return false;
-	//if (min.y < rect.max.y || rect.min.y < max.y) return false;
 
 	return true;
 }

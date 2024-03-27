@@ -4,7 +4,7 @@
 #include "pch.h"
 #include "tank.h"
 #include <mutex>
-
+//clearly an heavy tank
 Tank::Tank(
     float pos_x,
     float pos_y,

@@ -71,12 +71,6 @@
     <Filter Include="ImprovedOop">
       <UniqueIdentifier>{2c301e7d-56cf-4c52-8efd-63006dcf5a5b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="RocketManagers">
-      <UniqueIdentifier>{a9291251-fb38-4b18-8153-1c4c879b7f69}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Shaders">
-      <UniqueIdentifier>{26effcbb-4331-43fe-9dc3-83fce74bcaf1}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="App.cpp" />
@@ -109,11 +103,6 @@
       <Filter>XScan</Filter>
     </ClCompile>
     <ClCompile Include="SweepAndPrune.cpp" />
-    <ClCompile Include="Rocket.cpp" />
-    <ClCompile Include="RCollectionmanager.cpp" />
-    <ClCompile Include="Anthhill.cpp">
-      <Filter>ImprovedOop</Filter>
-    </ClCompile>
     <ClCompile Include="TerrainTile.cpp">
       <Filter>ImprovedOop</Filter>
     </ClCompile>
@@ -149,11 +138,6 @@
       <Filter>XScan</Filter>
     </ClInclude>
     <ClInclude Include="SweepAndPrune.h" />
-    <ClInclude Include="Rocket.h" />
-    <ClInclude Include="RCollectionmanager.h" />
-    <ClInclude Include="Anthhill.h">
-      <Filter>ImprovedOop</Filter>
-    </ClInclude>
     <ClInclude Include="TerrainTile.h">
       <Filter>ImprovedOop</Filter>
     </ClInclude>
@@ -210,10 +194,5 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Assets\terrain.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <FxCompile Include="ComputeTankTicss.hlsl">
-      <Filter>Shaders</Filter>
-    </FxCompile>
   </ItemGroup>
 </Project>

@@ -5,25 +5,6 @@
 //this class contains a box for the hull of the tank
 class Hull
 {
-	////interger for minpoints
-	//int minPointX;
-	//int minPointY;
-	////integers for the outer bounds
-	//int maxPointX;
-	//int maxPointY;
-	////the outer bounds
-	//vec2 minPoints = vec2(0,0);
-	//vec2 maxPoints = vec2(0,0);
-	////look how big he is
-	//vec2 SizeM;
-
-	//vec2 midPoint;
-
-/// <summary>
-/// misc data
-/// </summary>
-	//vec2 tankPosition;
-
 	int spriteH;
 	int spriteW;
 
@@ -104,8 +85,6 @@ public:
 	{
 		if (minPointX > rectM.minPoint.x || rectM.minPoint.x > maxPointX) return false;
 		if (minPointY < rectM.maxPoint.y || rectM.minPoint.y < maxPointY) return false;
-		//if (min.x > rect.max.x || rect.min.x > max.x) return false;
-		//if (min.y < rect.max.y || rect.min.y < max.y) return false;
 
 		return true;
 	};

@@ -111,10 +111,6 @@ namespace testdependence {
         if (is_accessible(y, x - 1)) { tiles.at(y).at(x).exits.push_back(&tiles.at(y).at(x - 1)); }
         if (is_accessible(y + 1, x)) { tiles.at(y).at(x).exits.push_back(&tiles.at(y + 1).at(x)); }
         if (is_accessible(y - 1, x)) { tiles.at(y).at(x).exits.push_back(&tiles.at(y - 1).at(x)); }
-
-
-
-
     }
 
     void TerrainM::GenerateMap()
@@ -262,12 +258,7 @@ namespace testdependence {
         }
     }
 
-
-
-
-
     //attempt a voronoi 
-    //https://sl.bing.net/ABRrMPTg0O
 
     bool TerrainM::IsInBounds(vec2& pos) {
         if ((pos.x >= 0 && pos.x < terrain_width) && (pos.y >= 0 && pos.y < terrain_height)) {
@@ -386,7 +377,6 @@ namespace testdependence {
 
     //afronding opgelost
     //potentie voor hashmap:
-    //https://sl.bing.net/dFhYx9tIXqC
 
     //this is a breakpoint class which will be called when bad things happen
     void pointStopTest() {
@@ -450,65 +440,11 @@ namespace testdependence {
         }
         return false;
     }
-    /*
-    std::vector<vec2> TerrainM::searchWander(vec2& start, vec2& target) {
 
-        vec2 currentPos = start;
-        std::vector<vec2> backlog;
-        std::vector<TerrainTile*> tilesToReset; // Use a vector of Tile pointers to keep track of which tiles to reset
-
-        while (currentPos != target && getDistanceFromPoint(currentPos, target) >= 10) { // Simplify the check for reaching the target
-
-            vec2 dir = getDirection(currentPos, target);
-
-            if (checkTile(currentPos + dir)) {
-                // We can move in the desired direction, so add the current position to the backlog and move to the next tile
-                backlog.push_back(currentPos);
-                currentPos += dir;
-            }
-            else {
-                // We can't move in the desired direction, so find the smallest angle and distance to the target
-                std::pair<vec2, float> anglesAndDistance = findSmallest(CheckAngle(currentPos, currentPos + dir, target));
-
-                if (anglesAndDistance.second == 9000) {
-                    // If we can't find a valid angle and distance, backtrack to the previous tile in the backlog
-                    currentPos = backlog.back();
-                    backlog.pop_back();
-                }
-                else {
-                    // We found a valid angle and distance, so add the current position to the backlog and move to the next tile
-                    backlog.push_back(currentPos);
-                    currentPos += anglesAndDistance.first;
-                }
-            }
-
-            // Reset any tiles that were toggled during the search
-            if (!backlog.empty()) {
-                TerrainTile& lastTile = getTile(backlog.back());
-                if (lastTile.visited) {
-                    lastTile.visited = false;
-                    tilesToReset.push_back(&lastTile);
-                }
-            }
-        }
-
-        // Reset any remaining toggled tiles
-        for (TerrainTile* tile : tilesToReset) {
-            tile->visited = false;
-        }
-
-        return backlog;
-    }
-    */
     std::vector<vec2> TerrainM::searchWander(vec2 start, vec2 target, Tank& t) {
 
         vec2 ty(0, 0);
         ty = incrementAngle(30, vec2(1, 1));
-
-        int st;
-
-
-
 
         TerrainTile* currentTile = GetRealWorldTilePos(start, true);
         TerrainTile* tileTarget = GetRealWorldTilePos(target, true);
@@ -518,11 +454,10 @@ namespace testdependence {
         //these are way less intensive
         vec2 currentPos = vec2(currentTile->position_x, currentTile->position_y);
         vec2 targetT = vec2(tileTarget->position_x, tileTarget->position_y);
-        //(currentTile == nullptr)? currentPos = start : currentPos = vec2(currentTile->position_x, currentTile->position_y);
-        //(tileTarget == nullptr) ? targetT = target : targetT = vec2(tileTarget->position_x, tileTarget->position_y);
+
         std::vector<vec2> backlog;
         std::vector<TerrainTile>* bath;
-        //bath = a_star(currentPos, targetT);
+
         //std::vector<vec2*> path = a_star(currentTile, tileTarget);
         std::vector<std::reference_wrapper<TerrainTile>> tilesToReset; // Use a vector of Tile pointers to keep track of which tiles to reset
         while (currentPos != targetT && getDistanceFromPoint(currentPos, targetT) >= 1) { // Simplify the check for reaching the target
@@ -554,10 +489,6 @@ namespace testdependence {
 
                     currentPos = backlog.back();
 
-                    //currentPos = backlog.back();
-                    //(backlog.size() > 0) ? currentPos = backlog.back() : currentPos;
-
-                    //tilesToReset.pop_back();
                 }
                 else {
                     // We found a valid angle and distance, so add the current position to the backlog and move to the next tile
@@ -571,15 +502,6 @@ namespace testdependence {
                 }
             }
 
-            // Reset any tiles that were toggled during the search
-            //if (!backlog.empty()) {
-                //p;da old ead and defenitly no warth my time
-                //TerrainTile& lastTile = getTile(backlog.back());
-                //if (lastTile.visited) {
-                //    lastTile.visited = false;
-                //    tilesToReset.push_back(lastTile);
-                //}
-            //}
         }
 
         // Reset any remaining toggled tiles
@@ -589,74 +511,6 @@ namespace testdependence {
         backlog = revertRoute(backlog);
         return std::ref(backlog);
     }
-
-    /*
-    std::vector<vec2> TerrainM::searchWander(vec2& start, vec2& target) {
-
-        //queue<vec2> rij;
-
-        vec2 currentPos = start;
-
-        std::vector<vec2> backlog;
-        //float FCost = Gcost + Hcost;
-        //use this bool to move one tile back.
-        bool stepBack = false;
-        bool theEnd = false;
-
-        while (!theEnd)
-        {
-
-            vec2 dir = getDirection(currentPos, target);
-            if (currentPos == target || getDistanceFromPoint(currentPos, target) < 10) {
-                //target reached
-                backlog.push_back(currentPos);
-                currentPos = (currentPos + dir);
-                theEnd = true;
-                //breakout(backlog);
-            }
-            //dan check de richting
-            //
-            //take one step into that direction
-            if (checkTile(currentPos + dir)) {
-                //go to the next tile
-                //backlog.push_back(&getTile(nextPoint + dir));
-                backlog.push_back(currentPos);
-                currentPos = (currentPos + dir);
-
-                //no need for recursion anymore
-                //WanderSearch(backlog, vec2(start + dir), target);
-            }
-            else {
-                //the angle and the distance to the end
-                std::pair<vec2, float> anglesAndDistance = findSmallest(CheckAngle(currentPos, currentPos + dir, target));
-
-                //9000 is a invalid vlag
-                //if that happens we need to go back a step and look from there
-                if (anglesAndDistance.second != 9000) {
-                    backlog.push_back(currentPos);
-                    currentPos = currentPos + anglesAndDistance.first;
-
-                    //no need for this recursion anymore
-                    //WanderSearch(backlog, start + anglesAndDistance.first, target);
-                }
-                //zet de tile als getogled
-
-                toggleTile(currentPos);
-                //add the old tile to the list to reset
-                tilesToReset.push_back(&getTile(currentPos));
-                currentPos = backlog.back();
-
-
-
-            }
-        }
-        //std::vector<vec2> kees = backlog;
-        ClearTiles(tilesToReset);
-        return backlog;
-
-
-    }
-    */
 
     void TerrainM::ClearTiles(std::vector<TerrainTile*> tileset) {
 
@@ -757,7 +611,6 @@ namespace testdependence {
     // URL: https://www.bing.com/chat
     std::vector<std::pair<vec2, float>> TerrainM::CheckAngle(vec2& currentPoint, vec2& dir, vec2& target, TerrainTile* player_Tile) {
 
-        //https://sl.bing.net/eW3R1kIZOIC
         std::vector<std::pair<vec2, float>> anglesAndDistance;
 
         //vec2 att1 = incrementAngle(30, vec2(1,1));
@@ -776,10 +629,6 @@ namespace testdependence {
             float angle = angleChecker(currentPoint, att1, target, player_Tile);
             anglesAndDistance.emplace_back(att1, angle);
 
-            //// Check if the distance is blocked or greater than the previous one.
-            //if (angle == 9000 || (i > 0 && angle > anglesAndDistance[i - 1].second)) {
-            //    break; // Exit the loop
-            //}
         }
 
         //return anglesAndDistance;
@@ -792,10 +641,6 @@ namespace testdependence {
     float TerrainM::angleChecker(vec2 hit, vec2 dir, vec2& target, TerrainTile* player_Tile) {
         //just check if the tile is safe
         if (checkTile(vec2(hit + dir), player_Tile)) {
-            //go to the next tile
-            //backlog.push_back(&getTile(nextPoint + dir));
-            //backlog.push_back(&nextPoint);
-            //WanderSearch(backlog, vec2(nextPoint + dir), target);
             return getDistanceFromPoint(hit + dir, target);
 
         }
